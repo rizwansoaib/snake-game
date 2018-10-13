@@ -11,6 +11,7 @@ Simple Snake-game in python using pygame module
 ## method 2
  Go to downloaded directory unzip and open folder open terminal Enter-
  sudo chmod +x snake.py
+ 
  run-
  ./snake.py
 # Features
