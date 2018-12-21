@@ -21,8 +21,8 @@ Simple Snake-game in python using pygame module
 1. Save High Score
 2. Show current Score
 3. Show remaining attempt for eating food
-4. If food grasp speed and length of snake increase
-5. If unfortunately not grasp food speed and length decrease
+4. If food grasp speed then length of snake increase
+5. If unfortunately not grasp food speed then length decrease
 6. Score decide on basis of remaining attempt for each food
 7. Cheat Code :
    Press i for increment current score by 20 (i=increment)
