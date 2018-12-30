@@ -1,3 +1,6 @@
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
+
 # Snake-game
 Simple Snake-game in python using pygame module 
 # Requirements
